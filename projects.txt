@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <br>
+    <h1 style="color:darkcyan;font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size: larger;">PROJECTS</h1>
+    <br>
+    <h3 style="color:blue;font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size: larger;">Project on predicting urban water quality with ubiquous data</h3>
+    <br>
+    <p style="color:black;font-size:larger">In this work we forecast the water quality of station over the next few hours from a data driven perspective
+using the water quality of a station over the next few hours from a data driven perspective using the water quality data and hydraulic data reported by existing monitor stations and variety of data sources we observed in the city.such as meteorology,pipe networks and point of interests.  
+    </p>
+    <br>
+     <p style="color:black;font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size: larger;">urban water quality prediction steps</p> 
+     <ol style="color:chocolate;font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size:medium;">  
+        <li>Identify the influencial factors</li>
+       <li>present a multitask,multiview learning method</li> 
+        <li>Evaluate our method with real world datasets</li>
+        <li>Extensive experiments verify the advantages of our method </li>
+    </ol>
+</body>
+</html>

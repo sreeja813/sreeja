@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+
+<h1>Skills</h1> 
+<br>
+<li>c</li>
+<li>python</li>
+<li>Mysql</li>
+<li>java</li>
+<li>Linux</li>
+<br>
+<h1>Goals</h1>
+<li>To see myself leading others and giving my best efforts to the development of organization</li>
+<br>
+<h1>Contact information</h1>
+<li>phone number:8367211205</li>
+<li>email-id:sreejachitumalla@gmail.com</li>
+<br>
+<h1>Hobbies</h1>
+<li>Listening music</li>
+<li>spending time with family and friends</li>
+<li>watching movies and series</li>
+</body>
+</html>

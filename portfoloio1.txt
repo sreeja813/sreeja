@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body{
+        margin:0px;
+
+    }
+    .container {
+    display:flex;
+    align-items: center; 
+    padding:10px;
+    margin:15px 10px 5px ;
+    }
+  .img{
+    margin-left: 15px ;
+    margin-right: 15px;  
+  }
+  .body{
+    border-style:solid;
+    border-width:5px;
+    border-color: cyan;
+ }
+  .left{
+    display: inline-block;
+    position: absolute;
+    left:32px;
+    
+  }
+  .mid{
+    display:block;
+    width:30%;
+    margin:12px auto;
+
+  }
+  .right{
+    position:absolute;
+    display:inline-block;
+    right: 34px;
+    top:200px;
+    
+  }
+ a:link{
+    color:crimson;
+
+ }
+ a:visited{
+    color:brown
+ }
+ a:hover{
+    color:darkblue
+ }
+ a:active{
+    color:darkmagenta
+ }
+</style>
+
+
+<body>
+   <h1 style="color:black;font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size:xx-large;"> Chitumalla Sreeja </h1>
+   <pre style="color:black;font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size: larger;"><b>
+I am an employee in Comviva,very interested in learning new stuff and research further to unknown information.
+Looking forward to adapt and learn from training in the new environment.</pre>
+
+<div class="left">
+<a style="text-align:left" href="education1.html">EDUCATION</a>
+<br>
+</div>
+<div class="mid">
+<a style="text-align:center" href="projects.html">PROJECTS</a>
+<br>
+</div>
+<br>
+<div class="right">
+<a style="text-align:right;margin-right:300px;margin-top:10px" href="others.html">OTHER INFORMATION</a>
+</div>
+<br>
+<br>
+<div class="container">
+    <div class="image">
+        <img src="https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?w=2000" alt="education"  height="300" width="300">  
+    </div>
+    <div class="image">
+        <img src="https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg" alt=project style="height="300" width="300" > 
+    </div>
+    <div class="image">
+        <img src="https://savviest-blog-assets.storage.googleapis.com/2020/02/achievements--1-.png" alt=achievements style=height="300" width="300" >
+    </div>
+
+</div>
+</body>
+</html>
